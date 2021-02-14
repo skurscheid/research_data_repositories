@@ -1,4 +1,4 @@
-### Examples of established research data repositories
+# Examples of established research data repositories
 ## Genomics
 https://www.ebi.ac.uk/arrayexpress/
 https://www.ncbi.nlm.nih.gov/geo/
