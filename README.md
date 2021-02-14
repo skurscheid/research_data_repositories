@@ -3,7 +3,7 @@ Collection of research data repositories - organizes in three tiers. Established
 
 [Established data repositories](established_repositories.md)
 
-[Institutional data repositories](instutional_repositories.md)
+[Institutional data repositories](institutional_repositories.md)
 
 [Interdisciplinary data repositories](interdisciplinary_repositories.md)
 
