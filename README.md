@@ -7,3 +7,4 @@ Collection of research data repositories - organizes in three tierd. Established
 
 [Interdisciplinary data repositories](interdisciplinary_repositories.md)
 
+[Data repository search engines](search_engines.md)
