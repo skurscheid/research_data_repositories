@@ -1,5 +1,5 @@
 # A non-exhaustive, non-authoritive list of research data repositories
-Collection of research data repositories - organized in three tierd. Established, Institutional, Interdisciplinary.
+Collection of research data repositories - organized in three tiers. Established, Institutional, Interdisciplinary.
 
 [Established data repositories](established_repositories.md)
 
